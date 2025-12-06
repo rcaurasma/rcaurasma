@@ -93,6 +93,8 @@
         <li><strong>Especialización en Desarrollo Full Stack</strong><br>(Ingeniería y Tecnología), 2025</li>
         <li><strong>INACAP, La Serena, Chile</strong><br>Ingeniería Informática (en curso), 2024 – Presente</li>
         <li><strong>Certificado Google AI Essentials V1</strong></li>
+        <li><strong>EN PROGRESO: Certificado de análisis de datos de Google</strong></li>
+        <li><strong>EN PROGRESO: Certificado de Ciberseguridad Google</strong></li>
         <li><strong>3 veces Mentor en Technovation Girls Chile. https://technovation.cl/ </strong></li>
         <li><strong>Inglés: Nivel avanzado (C1 según Oxford Online Placement Test)</strong></li>
       </ul>
