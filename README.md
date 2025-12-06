@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="42%">
       <pre>                                                                        
                                     717                               
                            000000000000000007
@@ -53,7 +53,7 @@
                00                                             00086644680000
               </pre>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="58%">
       <h3>Hey there, I'm Richard Cedeño 👽</h3>
       <p>Connect with me on LinkedIn too @rcaurasma!</p>
 <p><strong>Studying:</strong></p>
