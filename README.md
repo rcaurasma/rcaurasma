@@ -55,7 +55,7 @@
     </td>
     <td valign="top" width="50%">
       <h3>🧑‍💻 Hey there, I'm Richard Cedeño 🚀</h3>
-      <p>Connect with me on LinkedIn too @rcaurasma!</p>
+      <p>¡Conecta conmigo también en mi LinkedIn! <strong>@rcaurasma</strong></p>
 <p><strong>Studying:</strong></p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
@@ -89,7 +89,7 @@
 <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://skillicons.dev/icons?i=windows" /></a>
       <h3>Educación y Certificaciones</h3>
       <ul>
-        <li><strong>Especialización en Desarrollo Inicial de Aplicaciones</strong><br>, 2025</li>
+        <li><strong>Especialización en Desarrollo Inicial de Aplicaciones</strong>, 2025</li>
         <li><strong>Especialización en Desarrollo Full Stack</strong>, 2025</li>
         <li><strong>Especialización en Infraestructura TI Segura</strong>, 2025</li>
         <li><strong>INACAP, La Serena, Chile</strong><br>Ingeniería Informática (por comenzar 5to semestre), 2024 – Presente</li>
