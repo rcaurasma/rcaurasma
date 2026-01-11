@@ -54,7 +54,7 @@
               </pre>
     </td>
     <td valign="top" width="50%">
-      <h3>Hey there, I'm Richard Cedeño 👽</h3>
+      <h3>🧑‍💻 Hey there, I'm Richard Cedeño 🚀</h3>
       <p>Connect with me on LinkedIn too @rcaurasma!</p>
 <p><strong>Studying:</strong></p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
@@ -89,17 +89,17 @@
 <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://skillicons.dev/icons?i=windows" /></a>
       <h3>Educación y Certificaciones</h3>
       <ul>
-        <li><strong>Especialización en Desarrollo Inicial de Aplicaciones</strong><br>(Ingeniería y Tecnología), 2025</li>
-        <li><strong>Especialización en Desarrollo Full Stack</strong><br>(Ingeniería y Tecnología), 2025</li>
-        <li><strong>INACAP, La Serena, Chile</strong><br>Ingeniería Informática (en curso), 2024 – Presente</li>
+        <li><strong>Especialización en Desarrollo Inicial de Aplicaciones</strong><br>, 2025</li>
+        <li><strong>Especialización en Desarrollo Full Stack</strong>, 2025</li>
+        <li><strong>Especialización en Infraestructura TI Segura</strong>, 2025</li>
+        <li><strong>INACAP, La Serena, Chile</strong><br>Ingeniería Informática (por comenzar 5to semestre), 2024 – Presente</li>
         <li><strong>Certificado Google AI Essentials V1</strong></li>
-        <li><strong>EN PROGRESO: Certificado de análisis de datos de Google</strong></li>
         <li><strong>EN PROGRESO: Certificado de Ciberseguridad Google</strong></li>
-        <li><strong>3 veces Mentor en Technovation Girls Chile. https://technovation.cl/ </strong></li>
+        <li><strong>3 veces Mentor guía en Technovation Girls Chile. https://technovation.cl/ </strong></li>
         <li><strong>Inglés: Nivel avanzado (C1 según Oxford Online Placement Test)</strong></li>
       </ul>
     </td>
   </tr>
 </table>
 
-## 📱 Páginas y aplicaciones (próximamente)
+## 📱 PORTAFOLIO con páginas y aplicaciones (WORK IN PROGRESS)
