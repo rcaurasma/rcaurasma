@@ -105,90 +105,180 @@
 ## 📱 PORTAFOLIO con páginas y aplicaciones (WORK IN PROGRESS)
 
 <details>
-  <summary><strong>1. Nuam</strong></summary>
+  <summary><strong>1. Nuam Exchange - Mantenedor de Calificaciones Tributarias</strong></summary>
 
   Descripción breve:
-  > Aquí va una descripción corta de Nuam: qué hace, tu rol y un logro destacado.
+  > Aplicación web diseñada para digitalizar, centralizar y gestionar las calificaciones tributarias de instrumentos financieros y su información externa (factores y montos), reemplazando procesos manuales con herramientas de cargas masivas (CSV) y mantenedores CRUD. Participé como uno de los desarrolladores de front-end del equipo, implementé los diseños de UI/UX, corregí funcionalidades y asegurando el correcto funcionamiento de la aplicación y su posterior despliegue en AWS para la presentación final como técnico en informática.
 
   Tecnologías:
-  - Tecnología 1
-  - Tecnología 2
+  - Front End: React 19, Vite, React Router DOM, CSS.
+  - Back End: Node.js, Express, CORS.
+  - Base de Datos: PostgreSQL
+  
+Tecnologías principales:
+
+Frontend: React 19, Vite, React Router DOM, CSS nativo.
+Backend: Node.js, Express, CORS.
+Base de Datos: Configurada para funcionar de manera dual con PostgreSQL (para producción) o SQLite (para desarrollo/pruebas vía sqlite3).
 
   Enlaces:
-  - Repositorio: [nuam-repo](./) <!-- cambia por la URL real -->
-  - Demo: https://tu-demo-nuam.example
+  Enlaces:
+  - Repositorio: [nuam-node-react](https://github.com/rcaurasma/nuam-node-react)
+
+  Imágenes principales:
+### Dashboard
+
+![Dashboard](./assets/Nuam/1dashboard.png)
+
+### Ingreso Manual de Calificación
+
+![Ingreso Manual de Calificación](./assets/Nuam/2ingresoCalificacion.png)
+
+### Exportación / Vista de impresión (PDF)
+
+![Exportar PDF](./assets/Nuam/3funcionalidadExportacionPDF.png)
+
+</details>
+
+<details>
+  <summary><strong>6. Veterinaria Django</strong></summary>
+
+  Descripción breve:
+  > Aplicación web para gestión de una clínica veterinaria: manejo de citas, fichas médicas, roles de usuario (dueño, secretaria, veterinario, administrador) y CRUD de mascotas y productos.
+
+  Tecnologías principales:
+  - **Backend:** Python + Django
+  - **Base de datos:** SQLite (db.sqlite3)
+  - **Frontend:** HTML (plantillas Django), CSS y Bootstrap 5
+
+  Enlaces:
+  - Repositorio: (añade aquí la URL del repo si la tienes)
 
   Imágenes:
-  <!-- Si subes las imágenes al repositorio, usa rutas relativas como ./images/nuam/imagen1.png -->
+  ### Login
+
+  ![Login](./assets/VeterinariaDjango/login.png)
+
+  ### Panel Admin / Dashboard (Dueño / Admin)
+
+  ![Admin Panel](./assets/VeterinariaDjango/dashboard_dueno.png)
+
+  ### Panel Secretaria
+
+  ![Panel Secretaria](./assets/VeterinariaDjango/panel_secretaria.png)
+
+  ### Panel Veterinario
+
+  ![Panel Veterinario](./assets/VeterinariaDjango/panel_veterinario.png)
+
+  ### Lista de Citas
+
+  ![Lista de Citas](./assets/VeterinariaDjango/lista_citas.png)
+
+  ### Mis Fichas de Atención (Dueño)
+
+  ![Mis Fichas](./assets/VeterinariaDjango/mis_fichas.png)
+
+</details>
+
+<details>
+  <summary><strong>2. CuidadorApp: Plataforma de Gestión de Acompañantes Terapeúticos</strong></summary>
+
+  Descripción breve:
+  > Como desarrollador full stack, junto con mi equipo en No Country, desarrollamos una solución innovadora dentro de la vertical de Web App Development, Mobile Development, enfocada en el sector Healthtech. Logramos integrar nuestras habilidades para resolver un desafío real con impacto. La experiencia destacó la colaboración, el aprendizaje y la aplicación práctica de conocimientos técnicos en un entorno simulado de trabajo.
+
+  Tecnologías:
+  - **frontend/** → Aplicación web construida con React + Vite + Material UI.  
+
+  - **backend-flask/** → API construida con Flask (para demo) y preparada para migración a PostgreSQL.
+
+  Enlaces:
+  - Repositorio: [cuidadorapp-repo](https://github.com/No-Country-simulation/CuidadorApp_MonoRepo) <!-- cambia por la URL real -->
+  - Demo: [Showcase y video de youtube](https://nocountry.tech/simulacion-laboral-febrero-2026/cml1xj4eq0011i4013opu06bx)
+
+  Imágenes:
+### Login
+
+![Login](./assets/1login.png)
+
+### Vista de administrador
+
+![Vista de administrador](./assets/2vistaAdministrador.png)
+
+### Administrador Gestion de pacientes
+
+![Administrador Gestion de pacientes](./assets/3admGestionPacientes.png)
+
+### Vista de cuidador
+
+![Vista de cuidador](./assets/4vistaCuidador.png)
+
+### Cuidador Registro de Turnos
+
+![Cuidador Registro de Turnos](./assets/5cuidRegistroTurnos.png)
+
+### Cuidador Pagos
+
+![Cuidador Pagos](./assets/6cuidPagos.png)
+
+### Vista de familia o cliente
+
+![Vista de familia o cliente](./assets/7vistaFamiliar.png)
+
+### Familia Solicitud de Atención
+
+![Familia Solicitud de Atención](./assets/8famSolicitudAtencion.png)
+
+### Familia Historial Médico
+
+![Familia Historial Médico](./assets/9famHistorialMedico.png)
+
+### Familia Ventana de Soporte
+
+![Familia Ventana de Soporte](./assets/10famSoporte.png)
+
+
+</details>
+
+<details>
+  <summary><strong>3. EcoFood Landing Page</strong></summary>
+
+  Descripción breve:
+  > Landing page informativa de EcoFood enfocada en comunicar la propuesta de valor para reducir el desperdicio de alimentos, presentar beneficios y facilitar la navegación hacia secciones clave del proyecto.
+
+  Tecnologías principales:
+  - **Frontend:** HTML y CSS
+
+  Enlaces:
+  - Repositorio: [ecofood-landingpage-repo](./) <!-- cambia por la URL real -->
+  - Demo: (añade aquí la URL de la demo si la tienes)
+
+  Imágenes:
   <p float="left">
-    <img src="./images/nuam/nuam-1.png" alt="Nuam - captura 1" width="320" />
-    <img src="./images/nuam/nuam-2.png" alt="Nuam - captura 2" width="320" />
+    <img src="./assets/EcoFood-LandingPage/landing-beneficios.png" alt="EcoFood Landing Page - sección de beneficios" width="320" />
+    <img src="./assets/EcoFood-LandingPage/landing-hero.png" alt="EcoFood Landing Page - sección principal" width="320" />
   </p>
 
 </details>
 
 <details>
-  <summary><strong>2. CuidadorApp</strong></summary>
+  <summary><strong>4. EcoFood App</strong></summary>
 
   Descripción breve:
-  > Descripción de CuidadorApp: objetivo, usuarios y tu contribución.
+  > Aplicación web desarrollada con JavaScript y React que permite gestionar pedidos para ayudar a reducir el desperdicio de alimentos, conectando oferta disponible con usuarios interesados en comprar de forma responsable.
 
-  Tecnologías:
-  - Tecnología A
-  - Tecnología B
+  Tecnologías principales:
+  - **Frontend:** JavaScript y React
 
   Enlaces:
-  - Repositorio: [cuidadorapp-repo](./) <!-- cambia por la URL real -->
-  - Demo: https://tu-demo-cuidador.example
+  - Repositorio: [ecofood-app-repo](./) <!-- cambia por la URL real -->
+  - Demo: (añade aquí la URL de la demo si la tienes)
 
   Imágenes:
   <p float="left">
-    <img src="./images/cuidadorapp/cuidador-1.png" alt="CuidadorApp - captura 1" width="320" />
-    <img src="./images/cuidadorapp/cuidador-2.png" alt="CuidadorApp - captura 2" width="320" />
-  </p>
-
-</details>
-
-<details>
-  <summary><strong>3. EcoFood</strong></summary>
-
-  Descripción breve:
-  > Descripción de EcoFood: objetivo, funcionalidades principales y tu rol.
-
-  Tecnologías:
-  - Tecnología X
-  - Tecnología Y
-
-  Enlaces:
-  - Repositorio: [ecofood-repo](./) <!-- cambia por la URL real -->
-  - Demo: https://tu-demo-ecofood.example
-
-  Imágenes:
-  <p float="left">
-    <img src="./images/ecofood/ecofood-1.png" alt="EcoFood - captura 1" width="320" />
-    <img src="./images/ecofood/ecofood-2.png" alt="EcoFood - captura 2" width="320" />
-  </p>
-
-</details>
-
-<details>
-  <summary><strong>4. Banco Inacap</strong></summary>
-
-  Descripción breve:
-  > Descripción de Banco Inacap: objetivo del proyecto, integraciones y tu aporte.
-
-  Tecnologías:
-  - Tecnología M
-  - Tecnología N
-
-  Enlaces:
-  - Repositorio: [banco-inacap-repo](./) <!-- cambia por la URL real -->
-  - Demo: https://tu-demo-banco.example
-
-  Imágenes:
-  <p float="left">
-    <img src="./images/banco-inacap/banco-1.png" alt="Banco Inacap - captura 1" width="320" />
-    <img src="./images/banco-inacap/banco-2.png" alt="Banco Inacap - captura 2" width="320" />
+    <img src="./assets/EcoFood/dashboard-admin.png" alt="EcoFood App - dashboard de administrador" width="320" />
+    <img src="./assets/EcoFood/panel-cliente.png" alt="EcoFood App - panel de cliente" width="320" />
+    <img src="./assets/EcoFood/catalogo-productos.png" alt="EcoFood App - catálogo de productos" width="320" />
   </p>
 
 </details>
@@ -197,20 +287,21 @@
   <summary><strong>5. Bandas</strong></summary>
 
   Descripción breve:
-  > Descripción de Bandas: finalidad, público y tus responsabilidades.
+  > Catalogo web musical que permite a los usuarios explorar bandas, álbumes y canciones. Implementé la estructura de datos, las vistas y las plantillas para mostrar listados y fichas de detalle.
 
-  Tecnologías:
-  - Tecnología α
-  - Tecnología β
+  Tecnologías principales usadas:
+  - **Backend:** Python + Django
+  - **Base de datos:** SQLite (db.sqlite3)
+  - **Frontend:** HTML, CSS y Bootstrap 5 
 
   Enlaces:
-  - Repositorio: [bandas-repo](./) <!-- cambia por la URL real -->
-  - Demo: https://tu-demo-bandas.example
+  - Repositorio: [bandas-repo](https://github.com/rcaurasma/DJANGO-Bandas-Populares) <!-- cambia por la URL real -->
 
   Imágenes:
   <p float="left">
-    <img src="./images/bandas/bandas-1.png" alt="Bandas - captura 1" width="320" />
-    <img src="./images/bandas/bandas-2.png" alt="Bandas - captura 2" width="320" />
+    <img src="./assets/Bandas2000s/1bandas.png" alt="Bandas - listado" width="320" />
+    <img src="./assets/Bandas2000s/2albumes.png" alt="Bandas - álbumes" width="320" />
+    <img src="./assets/Bandas2000s/3canciones.png" alt="Bandas - canciones" width="320" />
   </p>
 
 </details>
