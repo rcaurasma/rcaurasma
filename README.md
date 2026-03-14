@@ -54,9 +54,9 @@
               </pre>
     </td>
     <td valign="top" width="50%">
-      <h3>🧑‍💻 Hey there, I'm Richard Cedeño 🚀</h3>
+      <h3>🧑‍💻 Hola, soy Richard Cedeño 🚀</h3>
       <p>¡Conecta conmigo también en mi LinkedIn! <strong>@rcaurasma</strong></p>
-<p><strong>Studying:</strong></p>
+<p><strong> Áreas de conocimiento: </strong></p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
@@ -92,10 +92,10 @@
         <li><strong>Especialización en Desarrollo Inicial de Aplicaciones</strong>, 2025</li>
         <li><strong>Especialización en Desarrollo Full Stack</strong>, 2025</li>
         <li><strong>Especialización en Infraestructura TI Segura</strong>, 2025</li>
-        <li><strong>INACAP, La Serena, Chile</strong><br>Ingeniería Informática (por comenzar 5to semestre), 2024 – Presente</li>
+        <li><strong>INACAP, La Serena, Chile</strong><br> Cursando quinto semestre de Ingeniería Informática, 2024 – Presente</li>
         <li><strong>Certificado Google AI Essentials V1</strong></li>
         <li><strong>EN PROGRESO: Certificado de Ciberseguridad Google</strong></li>
-        <li><strong>3 veces Mentor guía en Technovation Girls Chile. https://technovation.cl/ </strong></li>
+        <li><strong>Tres veces Mentor guía en Technovation Girls Chile. https://technovation.cl/ </strong></li>
         <li><strong>Inglés: Nivel avanzado (C1 según Oxford Online Placement Test)</strong></li>
       </ul>
     </td>
@@ -103,3 +103,114 @@
 </table>
 
 ## 📱 PORTAFOLIO con páginas y aplicaciones (WORK IN PROGRESS)
+
+<details>
+  <summary><strong>1. Nuam</strong></summary>
+
+  Descripción breve:
+  > Aquí va una descripción corta de Nuam: qué hace, tu rol y un logro destacado.
+
+  Tecnologías:
+  - Tecnología 1
+  - Tecnología 2
+
+  Enlaces:
+  - Repositorio: [nuam-repo](./) <!-- cambia por la URL real -->
+  - Demo: https://tu-demo-nuam.example
+
+  Imágenes:
+  <!-- Si subes las imágenes al repositorio, usa rutas relativas como ./images/nuam/imagen1.png -->
+  <p float="left">
+    <img src="./images/nuam/nuam-1.png" alt="Nuam - captura 1" width="320" />
+    <img src="./images/nuam/nuam-2.png" alt="Nuam - captura 2" width="320" />
+  </p>
+
+</details>
+
+<details>
+  <summary><strong>2. CuidadorApp</strong></summary>
+
+  Descripción breve:
+  > Descripción de CuidadorApp: objetivo, usuarios y tu contribución.
+
+  Tecnologías:
+  - Tecnología A
+  - Tecnología B
+
+  Enlaces:
+  - Repositorio: [cuidadorapp-repo](./) <!-- cambia por la URL real -->
+  - Demo: https://tu-demo-cuidador.example
+
+  Imágenes:
+  <p float="left">
+    <img src="./images/cuidadorapp/cuidador-1.png" alt="CuidadorApp - captura 1" width="320" />
+    <img src="./images/cuidadorapp/cuidador-2.png" alt="CuidadorApp - captura 2" width="320" />
+  </p>
+
+</details>
+
+<details>
+  <summary><strong>3. EcoFood</strong></summary>
+
+  Descripción breve:
+  > Descripción de EcoFood: objetivo, funcionalidades principales y tu rol.
+
+  Tecnologías:
+  - Tecnología X
+  - Tecnología Y
+
+  Enlaces:
+  - Repositorio: [ecofood-repo](./) <!-- cambia por la URL real -->
+  - Demo: https://tu-demo-ecofood.example
+
+  Imágenes:
+  <p float="left">
+    <img src="./images/ecofood/ecofood-1.png" alt="EcoFood - captura 1" width="320" />
+    <img src="./images/ecofood/ecofood-2.png" alt="EcoFood - captura 2" width="320" />
+  </p>
+
+</details>
+
+<details>
+  <summary><strong>4. Banco Inacap</strong></summary>
+
+  Descripción breve:
+  > Descripción de Banco Inacap: objetivo del proyecto, integraciones y tu aporte.
+
+  Tecnologías:
+  - Tecnología M
+  - Tecnología N
+
+  Enlaces:
+  - Repositorio: [banco-inacap-repo](./) <!-- cambia por la URL real -->
+  - Demo: https://tu-demo-banco.example
+
+  Imágenes:
+  <p float="left">
+    <img src="./images/banco-inacap/banco-1.png" alt="Banco Inacap - captura 1" width="320" />
+    <img src="./images/banco-inacap/banco-2.png" alt="Banco Inacap - captura 2" width="320" />
+  </p>
+
+</details>
+
+<details>
+  <summary><strong>5. Bandas</strong></summary>
+
+  Descripción breve:
+  > Descripción de Bandas: finalidad, público y tus responsabilidades.
+
+  Tecnologías:
+  - Tecnología α
+  - Tecnología β
+
+  Enlaces:
+  - Repositorio: [bandas-repo](./) <!-- cambia por la URL real -->
+  - Demo: https://tu-demo-bandas.example
+
+  Imágenes:
+  <p float="left">
+    <img src="./images/bandas/bandas-1.png" alt="Bandas - captura 1" width="320" />
+    <img src="./images/bandas/bandas-2.png" alt="Bandas - captura 2" width="320" />
+  </p>
+
+</details>
