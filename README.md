@@ -107,6 +107,7 @@
 <details>
   <summary><strong>Nuam Exchange - Mantenedor de Calificaciones Tributarias</strong></summary>
 
+
 Aplicación web diseñada para el Holding regional NUAM, que consiste en apoyar las labores de digitalizar, centralizar y gestionar las calificaciones tributarias de instrumentos financieros y su información externa (factores y montos), reemplazando procesos manuales con herramientas de cargas masivas (CSV) y mantenedores CRUD. Participé como uno de los desarrolladores de front-end del equipo, implementé los diseños de UI/UX, corregí funcionalidades y asegurando el correcto funcionamiento de la aplicación y su posterior despliegue en AWS para la presentación final como técnico en informática.
 
   Tecnologías:
@@ -135,46 +136,6 @@ Base de Datos: Configurada para funcionar de manera dual con PostgreSQL (para pr
 ### Exportación / Vista de impresión (PDF)
 
 <img src="./assets/Nuam/3funcionalidadExportacionPDF.png" alt="Exportar PDF" width="480" />
-
-</details>
-
-<details>
-  <summary><strong>Veterinaria Django</strong></summary>
-
-Aplicación web para gestión de una clínica veterinaria: manejo de citas, fichas médicas, roles de usuario (dueño, secretaria, veterinario, administrador) y CRUD de mascotas y productos.
-
-  Tecnologías principales:
-  - **Backend:** Python + Django
-  - **Base de datos:** SQLite (db.sqlite3)
-  - **Frontend:** HTML (plantillas Django), CSS y Bootstrap 5
-
-  Enlaces:
-  - Repositorio: (añade aquí la URL del repo si la tienes)
-
-  Imágenes:
-  ### Login
-
-  <img src="./assets/VeterinariaDjango/login.png" alt="Login" width="480" />
-
-  ### Panel Admin / Dashboard (Dueño / Admin)
-
-  <img src="./assets/VeterinariaDjango/dashboard_dueno.png" alt="Admin Panel" width="480" />
-
-  ### Panel Secretaria
-
-  <img src="./assets/VeterinariaDjango/panel_secretaria.png" alt="Panel Secretaria" width="480" />
-
-  ### Panel Veterinario
-
-  <img src="./assets/VeterinariaDjango/panel_veterinario.png" alt="Panel Veterinario" width="480" />
-
-  ### Lista de Citas
-
-  <img src="./assets/VeterinariaDjango/lista_citas.png" alt="Lista de Citas" width="480" />
-
-  ### Mis Fichas de Atención (Dueño)
-
-  <img src="./assets/VeterinariaDjango/mis_fichas.png" alt="Mis Fichas" width="480" />
 
 </details>
 
@@ -233,6 +194,42 @@ Como desarrollador full stack, junto con mi equipo en No Country, desarrollamos 
 
 <img src="./assets/CuidadorApp/10famSoporte.png" alt="Familia Ventana de Soporte" width="480" />
 
+</details>
+
+<details>
+  <summary><strong>Veterinaria Django</strong></summary>
+
+Aplicación web para gestión de una clínica veterinaria: manejo de citas, fichas médicas, roles de usuario (dueño, secretaria, veterinario, administrador) y CRUD de mascotas y productos.
+
+  Tecnologías principales:
+  - **Backend:** Python + Django
+  - **Base de datos:** SQLite (db.sqlite3)
+  - **Frontend:** HTML (plantillas Django), CSS y Bootstrap 5
+
+  Imágenes:
+  ### Login
+
+  <img src="./assets/VeterinariaDjango/login.png" alt="Login" width="480" />
+
+  ### Panel Admin / Dashboard (Dueño / Admin)
+
+  <img src="./assets/VeterinariaDjango/dashboard_dueno.png" alt="Admin Panel" width="480" />
+
+  ### Panel Secretaria
+
+  <img src="./assets/VeterinariaDjango/panel_secretaria.png" alt="Panel Secretaria" width="480" />
+
+  ### Panel Veterinario
+
+  <img src="./assets/VeterinariaDjango/panel_veterinario.png" alt="Panel Veterinario" width="480" />
+
+  ### Lista de Citas
+
+  <img src="./assets/VeterinariaDjango/lista_citas.png" alt="Lista de Citas" width="480" />
+
+  ### Mis Fichas de Atención (Dueño)
+
+  <img src="./assets/VeterinariaDjango/mis_fichas.png" alt="Mis Fichas" width="480" />
 
 </details>
 
