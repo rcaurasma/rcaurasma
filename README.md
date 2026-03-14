@@ -102,13 +102,12 @@
   </tr>
 </table>
 
-## 📱 PORTAFOLIO con páginas y aplicaciones (WORK IN PROGRESS)
+## 📱 PORTAFOLIO con páginas y aplicaciones (HAZ CLICK PARA VER DESCRIPCIÓN E IMÁGENES)
 
 <details>
-  <summary><strong>1. Nuam Exchange - Mantenedor de Calificaciones Tributarias</strong></summary>
+  <summary><strong>Nuam Exchange - Mantenedor de Calificaciones Tributarias</strong></summary>
 
-  Descripción breve:
-  > Aplicación web diseñada para digitalizar, centralizar y gestionar las calificaciones tributarias de instrumentos financieros y su información externa (factores y montos), reemplazando procesos manuales con herramientas de cargas masivas (CSV) y mantenedores CRUD. Participé como uno de los desarrolladores de front-end del equipo, implementé los diseños de UI/UX, corregí funcionalidades y asegurando el correcto funcionamiento de la aplicación y su posterior despliegue en AWS para la presentación final como técnico en informática.
+Aplicación web diseñada para el Holding regional NUAM, que consiste en apoyar las labores de digitalizar, centralizar y gestionar las calificaciones tributarias de instrumentos financieros y su información externa (factores y montos), reemplazando procesos manuales con herramientas de cargas masivas (CSV) y mantenedores CRUD. Participé como uno de los desarrolladores de front-end del equipo, implementé los diseños de UI/UX, corregí funcionalidades y asegurando el correcto funcionamiento de la aplicación y su posterior despliegue en AWS para la presentación final como técnico en informática.
 
   Tecnologías:
   - Front End: React 19, Vite, React Router DOM, CSS.
@@ -121,7 +120,6 @@ Frontend: React 19, Vite, React Router DOM, CSS nativo.
 Backend: Node.js, Express, CORS.
 Base de Datos: Configurada para funcionar de manera dual con PostgreSQL (para producción) o SQLite (para desarrollo/pruebas vía sqlite3).
 
-  Enlaces:
   Enlaces:
   - Repositorio: [nuam-node-react](https://github.com/rcaurasma/nuam-node-react)
 
@@ -141,10 +139,9 @@ Base de Datos: Configurada para funcionar de manera dual con PostgreSQL (para pr
 </details>
 
 <details>
-  <summary><strong>6. Veterinaria Django</strong></summary>
+  <summary><strong>Veterinaria Django</strong></summary>
 
-  Descripción breve:
-  > Aplicación web para gestión de una clínica veterinaria: manejo de citas, fichas médicas, roles de usuario (dueño, secretaria, veterinario, administrador) y CRUD de mascotas y productos.
+Aplicación web para gestión de una clínica veterinaria: manejo de citas, fichas médicas, roles de usuario (dueño, secretaria, veterinario, administrador) y CRUD de mascotas y productos.
 
   Tecnologías principales:
   - **Backend:** Python + Django
@@ -182,10 +179,9 @@ Base de Datos: Configurada para funcionar de manera dual con PostgreSQL (para pr
 </details>
 
 <details>
-  <summary><strong>2. CuidadorApp: Plataforma de Gestión de Acompañantes Terapeúticos</strong></summary>
+  <summary><strong> CuidadorApp: Plataforma de Gestión de Acompañantes Terapeúticos</strong></summary>
 
-  Descripción breve:
-  > Como desarrollador full stack, junto con mi equipo en No Country, desarrollamos una solución innovadora dentro de la vertical de Web App Development, Mobile Development, enfocada en el sector Healthtech. Logramos integrar nuestras habilidades para resolver un desafío real con impacto. La experiencia destacó la colaboración, el aprendizaje y la aplicación práctica de conocimientos técnicos en un entorno simulado de trabajo.
+Como desarrollador full stack, junto con mi equipo en No Country, desarrollamos una solución innovadora dentro de la vertical de Web App Development, Mobile Development, enfocada en el sector Healthtech. Logramos integrar nuestras habilidades para resolver un desafío real con impacto. La experiencia destacó la colaboración, el aprendizaje y la aplicación práctica de conocimientos técnicos en un entorno simulado de trabajo. Me encargué del UX, UI, Diseño y prototipado con herramientas como Figma y Stitch, para su posterior implementación con React. Diseñé todas las vistas, y luego ayudé a conectar el Back End realizado por mis compañeros, con el Front End, ademas de corregir código.
 
   Tecnologías:
   - **frontend/** → Aplicación web construida con React + Vite + Material UI.  
@@ -241,17 +237,15 @@ Base de Datos: Configurada para funcionar de manera dual con PostgreSQL (para pr
 </details>
 
 <details>
-  <summary><strong>3. EcoFood Landing Page</strong></summary>
+  <summary><strong>EcoFood Landing Page</strong></summary>
 
-  Descripción breve:
-  > Landing page informativa de EcoFood enfocada en comunicar la propuesta de valor para reducir el desperdicio de alimentos, presentar beneficios y facilitar la navegación hacia secciones clave del proyecto.
+Landing page informativa de EcoFood enfocada en comunicar la propuesta de valor para reducir el desperdicio de alimentos, presentar beneficios y facilitar la navegación hacia secciones clave del proyecto.
 
   Tecnologías principales:
   - **Frontend:** HTML y CSS
 
   Enlaces:
   - Repositorio: [ecofood-landingpage-repo](./) <!-- cambia por la URL real -->
-  - Demo: (añade aquí la URL de la demo si la tienes)
 
   Imágenes:
   <p float="left">
@@ -262,17 +256,15 @@ Base de Datos: Configurada para funcionar de manera dual con PostgreSQL (para pr
 </details>
 
 <details>
-  <summary><strong>4. EcoFood App</strong></summary>
+  <summary><strong>EcoFood App</strong></summary>
 
-  Descripción breve:
-  > Aplicación web desarrollada con JavaScript y React que permite gestionar pedidos para ayudar a reducir el desperdicio de alimentos, conectando oferta disponible con usuarios interesados en comprar de forma responsable.
+Aplicación web desarrollada con JavaScript y React que permite gestionar pedidos para ayudar a reducir el desperdicio de alimentos, conectando oferta disponible con usuarios interesados en comprar de forma responsable.
 
   Tecnologías principales:
   - **Frontend:** JavaScript y React
 
   Enlaces:
   - Repositorio: [ecofood-app-repo](./) <!-- cambia por la URL real -->
-  - Demo: (añade aquí la URL de la demo si la tienes)
 
   Imágenes:
   <p float="left">
@@ -284,10 +276,9 @@ Base de Datos: Configurada para funcionar de manera dual con PostgreSQL (para pr
 </details>
 
 <details>
-  <summary><strong>5. Bandas</strong></summary>
+  <summary><strong>Bandas populares de los 2000s</strong></summary>
 
-  Descripción breve:
-  > Catalogo web musical que permite a los usuarios explorar bandas, álbumes y canciones. Implementé la estructura de datos, las vistas y las plantillas para mostrar listados y fichas de detalle.
+Catalogo web musical que permite a los usuarios explorar bandas, álbumes y canciones. Implementé la estructura de datos, las vistas y las plantillas para mostrar listados y fichas de detalle.
 
   Tecnologías principales usadas:
   - **Backend:** Python + Django
