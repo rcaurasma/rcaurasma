@@ -126,15 +126,15 @@ Base de Datos: Configurada para funcionar de manera dual con PostgreSQL (para pr
   Imágenes principales:
 ### Dashboard
 
-![Dashboard](./assets/Nuam/1dashboard.png)
+<img src="./assets/Nuam/1dashboard.png" alt="Dashboard" width="480" />
 
 ### Ingreso Manual de Calificación
 
-![Ingreso Manual de Calificación](./assets/Nuam/2ingresoCalificacion.png)
+<img src="./assets/Nuam/2ingresoCalificacion.png" alt="Ingreso Manual de Calificación" width="480" />
 
 ### Exportación / Vista de impresión (PDF)
 
-![Exportar PDF](./assets/Nuam/3funcionalidadExportacionPDF.png)
+<img src="./assets/Nuam/3funcionalidadExportacionPDF.png" alt="Exportar PDF" width="480" />
 
 </details>
 
@@ -154,27 +154,27 @@ Aplicación web para gestión de una clínica veterinaria: manejo de citas, fich
   Imágenes:
   ### Login
 
-  ![Login](./assets/VeterinariaDjango/login.png)
+  <img src="./assets/VeterinariaDjango/login.png" alt="Login" width="480" />
 
   ### Panel Admin / Dashboard (Dueño / Admin)
 
-  ![Admin Panel](./assets/VeterinariaDjango/dashboard_dueno.png)
+  <img src="./assets/VeterinariaDjango/dashboard_dueno.png" alt="Admin Panel" width="480" />
 
   ### Panel Secretaria
 
-  ![Panel Secretaria](./assets/VeterinariaDjango/panel_secretaria.png)
+  <img src="./assets/VeterinariaDjango/panel_secretaria.png" alt="Panel Secretaria" width="480" />
 
   ### Panel Veterinario
 
-  ![Panel Veterinario](./assets/VeterinariaDjango/panel_veterinario.png)
+  <img src="./assets/VeterinariaDjango/panel_veterinario.png" alt="Panel Veterinario" width="480" />
 
   ### Lista de Citas
 
-  ![Lista de Citas](./assets/VeterinariaDjango/lista_citas.png)
+  <img src="./assets/VeterinariaDjango/lista_citas.png" alt="Lista de Citas" width="480" />
 
   ### Mis Fichas de Atención (Dueño)
 
-  ![Mis Fichas](./assets/VeterinariaDjango/mis_fichas.png)
+  <img src="./assets/VeterinariaDjango/mis_fichas.png" alt="Mis Fichas" width="480" />
 
 </details>
 
@@ -195,43 +195,43 @@ Como desarrollador full stack, junto con mi equipo en No Country, desarrollamos 
   Imágenes:
 ### Login
 
-![Login](./assets/1login.png)
+<img src="./assets/CuidadorApp/1login.png" alt="Login" width="480" />
 
 ### Vista de administrador
 
-![Vista de administrador](./assets/2vistaAdministrador.png)
+<img src="./assets/CuidadorApp/2vistaAdministrador.png" alt="Vista de administrador" width="480" />
 
 ### Administrador Gestion de pacientes
 
-![Administrador Gestion de pacientes](./assets/3admGestionPacientes.png)
+<img src="./assets/CuidadorApp/3admGestionPacientes.png" alt="Administrador Gestion de pacientes" width="480" />
 
 ### Vista de cuidador
 
-![Vista de cuidador](./assets/4vistaCuidador.png)
+<img src="./assets/CuidadorApp/4vistaCuidador.png" alt="Vista de cuidador" width="480" />
 
 ### Cuidador Registro de Turnos
 
-![Cuidador Registro de Turnos](./assets/5cuidRegistroTurnos.png)
+<img src="./assets/CuidadorApp/5cuidRegistroTurnos.png" alt="Cuidador Registro de Turnos" width="480" />
 
 ### Cuidador Pagos
 
-![Cuidador Pagos](./assets/6cuidPagos.png)
+<img src="./assets/CuidadorApp/6cuidPagos.png" alt="Cuidador Pagos" width="480" />
 
 ### Vista de familia o cliente
 
-![Vista de familia o cliente](./assets/7vistaFamiliar.png)
+<img src="./assets/CuidadorApp/7vistaFamiliar.png" alt="Vista de familia o cliente" width="480" />
 
 ### Familia Solicitud de Atención
 
-![Familia Solicitud de Atención](./assets/8famSolicitudAtencion.png)
+<img src="./assets/CuidadorApp/8famSolicitudAtencion.png" alt="Familia Solicitud de Atención" width="480" />
 
 ### Familia Historial Médico
 
-![Familia Historial Médico](./assets/9famHistorialMedico.png)
+<img src="./assets/CuidadorApp/9famHistorialMedico.png" alt="Familia Historial Médico" width="480" />
 
 ### Familia Ventana de Soporte
 
-![Familia Ventana de Soporte](./assets/10famSoporte.png)
+<img src="./assets/CuidadorApp/10famSoporte.png" alt="Familia Ventana de Soporte" width="480" />
 
 
 </details>
@@ -249,8 +249,8 @@ Landing page informativa de EcoFood enfocada en comunicar la propuesta de valor 
 
   Imágenes:
   <p float="left">
-    <img src="./assets/EcoFood-LandingPage/landing-beneficios.png" alt="EcoFood Landing Page - sección de beneficios" width="320" />
-    <img src="./assets/EcoFood-LandingPage/landing-hero.png" alt="EcoFood Landing Page - sección principal" width="320" />
+    <img src="./assets/EcoFood-LandingPage/landing-beneficios.png" alt="EcoFood Landing Page - sección de beneficios" width="480" />
+    <img src="./assets/EcoFood-LandingPage/landing-hero.png" alt="EcoFood Landing Page - sección principal" width="480" />
   </p>
 
 </details>
@@ -268,9 +268,9 @@ Aplicación web desarrollada con JavaScript y React que permite gestionar pedido
 
   Imágenes:
   <p float="left">
-    <img src="./assets/EcoFood/dashboard-admin.png" alt="EcoFood App - dashboard de administrador" width="320" />
-    <img src="./assets/EcoFood/panel-cliente.png" alt="EcoFood App - panel de cliente" width="320" />
-    <img src="./assets/EcoFood/catalogo-productos.png" alt="EcoFood App - catálogo de productos" width="320" />
+    <img src="./assets/EcoFood/dashboard-admin.png" alt="EcoFood App - dashboard de administrador" width="480" />
+    <img src="./assets/EcoFood/panel-cliente.png" alt="EcoFood App - panel de cliente" width="480" />
+    <img src="./assets/EcoFood/catalogo-productos.png" alt="EcoFood App - catálogo de productos" width="480" />
   </p>
 
 </details>
@@ -290,9 +290,9 @@ Catalogo web musical que permite a los usuarios explorar bandas, álbumes y canc
 
   Imágenes:
   <p float="left">
-    <img src="./assets/Bandas2000s/1bandas.png" alt="Bandas - listado" width="320" />
-    <img src="./assets/Bandas2000s/2albumes.png" alt="Bandas - álbumes" width="320" />
-    <img src="./assets/Bandas2000s/3canciones.png" alt="Bandas - canciones" width="320" />
+    <img src="./assets/Bandas2000s/1bandas.png" alt="Bandas - listado" width="480" />
+    <img src="./assets/Bandas2000s/2albumes.png" alt="Bandas - álbumes" width="480" />
+    <img src="./assets/Bandas2000s/3canciones.png" alt="Bandas - canciones" width="480" />
   </p>
 
 </details>
