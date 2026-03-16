@@ -73,7 +73,6 @@
 <a href="https://kotlinlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" /></a>
 <a href="https://developer.android.com/studio" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" /></a>
 <a href="https://unity.com/" target="_blank"><img src="https://skillicons.dev/icons?i=unity" /></a>
-<a href="https://www.blender.org/" target="_blank"><img src="https://skillicons.dev/icons?i=blender" /></a>
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
 <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
@@ -84,8 +83,6 @@
 <a href="https://www.notion.so/" target="_blank"><img src="https://skillicons.dev/icons?i=notion" /></a>
 <a href="https://wordpress.org/" target="_blank"><img src="https://skillicons.dev/icons?i=wordpress" /></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" /></a>
-<a href="https://www.kali.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kali" /></a>
-<a href="https://ubuntu.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu" /></a>
 <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://skillicons.dev/icons?i=windows" /></a>
       <h3>Educación y Certificaciones</h3>
       <ul>
